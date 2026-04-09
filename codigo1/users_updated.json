@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Pyterson",
+    "account": {
+      "id": 7,
+      "number": "00001-1",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 4,
+      "number": "**** **** **** 1111",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pyterson, invista hoje para garantir um futuro seguro e prospero. Seu futuro agradece!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pip",
+    "account": {
+      "id": 8,
+      "number": "00002-2",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 5,
+      "number": "**** **** **** 2222",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pip, investir eh o caminho para multiplicar seu dinheiro. Vamos fortalecer seu futuro financeiro!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pep",
+    "account": {
+      "id": 9,
+      "number": "00003-3",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 6,
+      "number": "**** **** **** 3333",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, investimentos sao a chave para o futuro financeiro. Cresca seu dinheiro, nao apenas o guarde!"
+      }
+    ]
+  }
+]
